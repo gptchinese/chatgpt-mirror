@@ -18,7 +18,7 @@
 
 ## 国内推荐的 ChatGPT镜像网站
 
-- [https://chat.yixiaai.com/](https://xsimplechat.com/) - 于2023年3月上线，稳定运行，支持 GPT4、4.0 以及 3.5，支持 MJ 绘画。
+- [https://xsimplechat.com/](https://xsimplechat.com/) - 于2023年3月上线，稳定运行，支持 GPT4、4.0 以及 3.5，支持 MJ 绘画。
 - [https://chat.lanjing.pro/](https://chat.lanjing.pro/) - 支持 GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet、Grok 3 最先进的模型，无限使用~
 - [https://chat.lify.vip/](https://chat.yixiaai.com/) - 运营近2年，支持 GPT4、4.0 以及 3.5，提供 AI文件、AI PPT、AI助手、AI插件功能、思维导图等。
 - [https://chat.chatgpt-chinese.com/](https://chat.chatgpt-chinese.com/) - 运营超过1年，支持 GPT4、4.0，支持AI绘画（Midjourney和Dall·E）。
